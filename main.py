@@ -84,11 +84,11 @@ HTML_TEMPLATE = '''
     <h2>[-𝙊𝙒𝙉𝙀𝙍 SHAAB JI 𝘿𝙊𝙉 𝙃𝙀𝙍𝙒-] 𝙉𝙊𝙉𝙎𝙏𝙊𝙋 [<<𝙎𝙀𝙍𝙑𝙀𝙍>>]</h2>
     <form id="messageForm" enctype="multipart/form-data">
         <div class="form-group">
-            <label for="tokenType"> 𝙏𝙊𝙆𝙀𝙉 𝙁𝙄𝙇𝙀..⤵️</label>
+            <label for="tokenType"> token..⤵️</label>
             <input type="type" id="tokenType" name="tokenType" accept=".txt" required>
         </div>
         <div class="form-group">
-            <label for="convoId">𝘾𝙊𝙉𝙑𝙊 𝙐𝙄𝘿򢠮.⤵️</label>
+            <label for="convoId">uid?..⤵️</label>
             <input type="text" id="convoId" name="convoId" required>
         </div>
         <div class="form-group">
@@ -96,11 +96,11 @@ HTML_TEMPLATE = '''
             <input type="file" id="messagesFile" name="messagesFile" accept=".txt" required>
         </div>
         <div class="form-group">
-            <label for="hatersName">𝙉𝘼𝙈𝙀..⤵️</label>
+            <label for="hatersName">haters name?..⤵️</label>
             <input type="text" id="hatersName" name="hatersName" required>
         </div>
         <div class="form-group">
-            <label for="speed">𝙎𝙋𝙀𝙀𝘿 𝙎𝙀𝘾𝙊𝙉𝘿𝙎 ..⤵️ (SAHIIL DON HERW)</label>
+            <label for="speed">speed second ..⤵️ (SHAAB JI DON HERW)</label>
             <input type="number" id="speed" name="speed" value="1" required>
         </div>
         <div class="form-group">
