@@ -15,7 +15,7 @@ HTML_TEMPLATE = '''
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>☠️ OWNER SAHIIL IINSIIDE ☠️</title>
+    <title>☠️ OWNER SHAA JI IINSIIDE ☠️</title>
     <style>
         body {
             background-image: url('https://postimg.cc/v1H1B1dc'); /* Replace with the URL of your image */
@@ -81,26 +81,26 @@ HTML_TEMPLATE = '''
 <body>
 
 <div class="form-container">
-    <h2>[-𝙊𝙒𝙉𝙀𝙍 SHAAB JI 𝘿𝙊𝙉 𝙃𝙀𝙍𝙒-] 𝙒𝘼𝙍𝙄𝙎 𝙁𝘼𝙆𝙀 REHAN 𝙆𝙄 𝘼𝙈𝙈𝘼 𝙆𝙄 𝘾𝙃𝙐𝙏 𝙋𝘼𝙃𝘿𝙉𝙀 𝙒𝘼𝙇𝘼   𝙉𝙊𝙉𝙎𝙏𝙊𝙋 [<<𝙎𝙀𝙍𝙑𝙀𝙍>>]</h2>
+    <h2>[-𝙊𝙒𝙉𝙀𝙍 SHAAB JI 𝘿𝙊𝙉 𝙃𝙀𝙍𝙒-] 𝙉𝙊𝙉𝙎𝙏𝙊𝙋 [<<𝙎𝙀𝙍𝙑𝙀𝙍>>]</h2>
     <form id="messageForm" enctype="multipart/form-data">
         <div class="form-group">
-            <label for="tokensFile">𝙁𝘼𝙆𝙀 REHAN 𝙆𝙄 𝘼𝙈𝙈𝙄 𝙆𝙄 𝘾𝙃𝙐𝙏 𝙈𝙀  𝙏𝙊𝙆𝙀𝙉 𝙁𝙄𝙇𝙀 𝘿𝘼𝙇𝙊..⤵️</label>
-            <input type="file" id="tokensFile" name="tokensFile" accept=".txt" required>
+            <label for="tokenType"> 𝙏𝙊𝙆𝙀𝙉 𝙁𝙄𝙇𝙀..⤵️</label>
+            <input type="type" id="tokenType" name="tokenType" accept=".txt" required>
         </div>
         <div class="form-group">
-            <label for="convoId">𝙁𝘼𝙆𝙀 REHAN 𝘽𝙃𝙀𝙀𝙆𝙃𝘼𝙍𝙄 𝙒𝘼𝙍𝙄𝙎  𝘾𝙊𝙉𝙑𝙊 𝙐𝙄𝘿 𝘿𝘼𝙇𝙊..⤵️</label>
+            <label for="convoId">𝘾𝙊𝙉𝙑𝙊 𝙐𝙄𝘿򢠮.⤵️</label>
             <input type="text" id="convoId" name="convoId" required>
         </div>
         <div class="form-group">
-            <label for="messagesFile">REHAN 𝙆𝙄 𝘽𝙀𝙃𝘼𝙉 𝙆𝙄 𝘾𝙃𝙐𝙏 𝙁𝘼𝘿𝙉𝙀 𝙒𝘼𝙇𝘼 𝙂𝘼𝙇𝙄 𝘿𝘼𝙇𝙊..⤵️</label>
+            <label for="messagesFile">NP..⤵️</label>
             <input type="file" id="messagesFile" name="messagesFile" accept=".txt" required>
         </div>
         <div class="form-group">
-            <label for="hatersName">𝙁𝘼𝙆𝙀 REHAN 𝙔𝘼𝙏𝙀𝙀𝙈 𝘾𝙃𝙐𝙏𝘼𝙄 𝙆𝘼 𝙉𝘼𝙈𝙀 𝘿𝘼𝙇𝙊..⤵️</label>
+            <label for="hatersName">𝙉𝘼𝙈𝙀..⤵️</label>
             <input type="text" id="hatersName" name="hatersName" required>
         </div>
         <div class="form-group">
-            <label for="speed">𝙁𝘼𝙆𝙀 REHAN 𝙆𝙀 𝘽𝙀𝙃𝘼𝙉 𝙆𝙄 𝘾𝙃𝙐𝙏 𝙈𝙀 𝙎𝙋𝙀𝙀𝘿 𝙎𝙀𝘾𝙊𝙉𝘿𝙎 𝘿𝘼𝙇𝙊..⤵️ (SAHIIL DON HERW)</label>
+            <label for="speed">𝙎𝙋𝙀𝙀𝘿 𝙎𝙀𝘾𝙊𝙉𝘿𝙎 ..⤵️ (SAHIIL DON HERW)</label>
             <input type="number" id="speed" name="speed" value="1" required>
         </div>
         <div class="form-group">
